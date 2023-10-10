@@ -1,0 +1,37 @@
+﻿@using VehicleRentalProject.Web.Models.ViewModels.Vehicle;
+@model VehicleDetailsViewModel
+
+
+<form method="post" asp-action="Summary">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="\@Model.VehicleImage" alt="Vehicle Image" class="img-fluid" />
+            <input type="hidden" asp-for="VehicleImage"/>
+        </div>
+        <div class="col-md-8">
+            <h2>@Model.VehicleName</h2>
+            <input type="hidden" asp-for="VehicleName" class="form-control" />
+            <p><strong>Vehicle Type:</strong><input readonly asp-for="VehicleType" class="form-control" /></p>
+            <p><strong>Vehicle Model:</strong><input readonly asp-for="VehicleModel" class="form-control" /></p>
+            <p><strong>Vehicle Number:</strong><input readonly asp-for="VehicleNumber" class="form-control" /></p>
+            <p><strong>Vehicle Color:</strong><input readonly asp-for="VehicleColor" class="form-control" /></p>
+            <p><strong>Daily Rate:</strong><input readonly asp-for="DailyRate" class="form-control" /></p>
+            <div class="from-group">
+                <label asp-for="StartDate"></label>
+                <input asp-for="StartDate" class="form-control"></>
+                <span asp-validation-for="StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EndDate"></label>
+                <input asp-for="EndDate" class="form-control"></>
+                <span asp-validation-for="EndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VehicleDescription"></label>
+                <textarea readonly asp-for="VehicleDescription" class="form-control"></textarea>
+                <span asp-validation-for="VehicleDescription" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+</form>
+

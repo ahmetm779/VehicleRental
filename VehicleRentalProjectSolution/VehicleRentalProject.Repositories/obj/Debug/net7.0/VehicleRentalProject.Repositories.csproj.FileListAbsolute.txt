@@ -1,0 +1,15 @@
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\bin\Debug\net7.0\VehicleRentalProject.Repositories.deps.json
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\bin\Debug\net7.0\VehicleRentalProject.Repositories.dll
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\bin\Debug\net7.0\VehicleRentalProject.Repositories.pdb
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\bin\Debug\net7.0\VehicleRentalProject.Models.dll
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\bin\Debug\net7.0\VehicleRentalProject.Models.pdb
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\obj\Debug\net7.0\VehicleRentalProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\obj\Debug\net7.0\VehicleRentalProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\obj\Debug\net7.0\VehicleRentalProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\obj\Debug\net7.0\VehicleRentalProject.Repositories.AssemblyInfo.cs
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\obj\Debug\net7.0\VehicleRentalProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\obj\Debug\net7.0\VehicleRentalProject.Repositories.csproj.CopyComplete
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\obj\Debug\net7.0\VehicleRentalProject.Repositories.dll
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\obj\Debug\net7.0\refint\VehicleRentalProject.Repositories.dll
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\obj\Debug\net7.0\VehicleRentalProject.Repositories.pdb
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Repositories\obj\Debug\net7.0\ref\VehicleRentalProject.Repositories.dll

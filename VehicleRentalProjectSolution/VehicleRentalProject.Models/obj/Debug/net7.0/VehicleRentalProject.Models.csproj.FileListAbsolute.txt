@@ -1,0 +1,12 @@
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\bin\Debug\net7.0\VehicleRentalProject.Models.deps.json
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\bin\Debug\net7.0\VehicleRentalProject.Models.dll
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\bin\Debug\net7.0\VehicleRentalProject.Models.pdb
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\obj\Debug\net7.0\VehicleRentalProject.Models.csproj.AssemblyReference.cache
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\obj\Debug\net7.0\VehicleRentalProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\obj\Debug\net7.0\VehicleRentalProject.Models.AssemblyInfoInputs.cache
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\obj\Debug\net7.0\VehicleRentalProject.Models.AssemblyInfo.cs
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\obj\Debug\net7.0\VehicleRentalProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\obj\Debug\net7.0\VehicleRentalProject.Models.dll
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\obj\Debug\net7.0\refint\VehicleRentalProject.Models.dll
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\obj\Debug\net7.0\VehicleRentalProject.Models.pdb
+C:\Users\100103\Desktop\Ders\VehicleRentalProjectSolution\VehicleRentalProject.Models\obj\Debug\net7.0\ref\VehicleRentalProject.Models.dll
